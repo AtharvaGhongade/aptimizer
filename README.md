@@ -1,4 +1,3 @@
-Aptimizer
 
 Aptimizer is a personal project designed to help users practice mental arithmetic using a fast, interactive, and audio-enhanced web interface.
 The application is built with HTML, CSS, and JavaScript, and deployed using AWS Amplify.

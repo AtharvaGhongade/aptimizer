@@ -1,26 +1,28 @@
 Aptimizer
 
-Aptimizer is a personal project designed to practice mental arithmetic using a fast and interactive web interface. It uses HTML, CSS, and JavaScript, and is deployed using AWS Amplify.
+Aptimizer is a personal project designed to help users practice mental arithmetic using a fast, interactive, and audio-enhanced web interface.
+The application is built with HTML, CSS, and JavaScript, and deployed using AWS Amplify.
 
 🌐 Live Project
 
-https://main.d3l9nex6kt2cln.amplifyapp.com/
+🔗 https://main.d3l9nex6kt2cln.amplifyapp.com/
 
-Project Goals
+🎯 Project Goals
 
 Build a clean and responsive UI
 
-Experiment with audio-based feedback
+Implement and experiment with audio-based feedback
 
-Learn deployment using AWS Amplify
+Learn and apply AWS Amplify hosting for real-world deployment
 
-Prepare the project for serverless backend integration
+Prepare the project for serverless backend integration (API Gateway + Lambda)
 
-What I Learned:
+📘 What I Learned
 
-Front-end structuring and asset management
+Front-end structuring and organizing assets effectively
 
-Hosting a project using AWS Amplify
+AWS Amplify Hosting for deploying static websites
 
-Understanding CI/CD deployments
+Configuring and understanding CI/CD pipelines through GitHub → Amplify
 
+How API Gateway and AWS Lambda can be integrated for dynamic backend features
